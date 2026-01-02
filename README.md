@@ -423,17 +423,6 @@ Table: mahasiswa
 
 ---
 
-## 🎯 COCOK UNTUK
-
-✅ Tugas kuliah Pemrograman Java
-✅ Belajar Java Swing GUI
-✅ Portfolio project
-✅ Latihan database JDBC
-✅ Referensi CRUD application
-✅ Final project mata kuliah
-
----
-
 ## 📚 LEARNING OUTCOMES
 
 Setelah menggunakan project ini, Anda akan paham:
@@ -565,7 +554,7 @@ Project ini **production ready** dan siap digunakan!
 
 ---
 
-**Made with ❤️ for learning Java**
+**Made with for learning Java**
 
 **Happy Coding! 🚀💻**
 
